@@ -3,8 +3,11 @@
 More than five years of broad experience. More than two years of experience in the financial industry. I am involved in testing, developing, and talking with customers about a product. I fixed bugs, resolved product conflicts, and just wrote readable code. Fallen in love with C++ - this language stole my heart!
 
 <p align="center">
-  <img src="https://github.com/ValeriiKoniushenko/valeriikoniushenko/assets/99877553/9715c63d-965c-4bc2-9be1-1e2fc0f25af6"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeriikoniushenko/valeriikoniushenko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeriikoniushenko/valeriikoniushenko/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valeriikoniushenko/valeriikoniushenko/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🔗 Skills:
 - C++, BOOST, MFC, ATL, STL, FMT, OpenGL, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML
