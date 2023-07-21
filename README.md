@@ -12,6 +12,7 @@ More than five years of broad experience. More than two years of experience in t
 - C#, ADO.NET
 - Ruby, RubyOnRails
 - PHP, Laravel, Js, jQuery, ViewJs, Bootstrap, Wordpress, HTML\CSS\SASS\LESS\SCSS, WebGL
+- Python 3.x, Django
 
 ## 🔧 Work experience:
 1. School 42
