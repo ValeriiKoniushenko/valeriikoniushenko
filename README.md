@@ -37,4 +37,4 @@ More than five years of broad experience. More than two years of experience in t
 ## 📨 Contacts:
 - e-mail: Valerii.Koniushenko@gmail.com
 - phone: +38066445607
-- telegram: markmoran24
+- telegram: [@markmoran24](https://t.me/markmoran24)
