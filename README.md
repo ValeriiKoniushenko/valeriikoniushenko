@@ -12,6 +12,7 @@ More than five years of broad experience. More than two years of experience in t
 ## 🔗 Skills:
 - C++, BOOST, MFC, ATL, STL, FMT, OpenGL, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML
 - SQL
+- Java, Kotlink, Android Studio
 - C#, ADO.NET
 - Ruby, RubyOnRails
 - PHP, Laravel, Js, jQuery, ViewJs, Bootstrap, Wordpress, HTML\CSS\SASS\LESS\SCSS, WebGL
