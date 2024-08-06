@@ -19,7 +19,7 @@ More than five years of broad experience. More than two years of experience in t
 - Python 2.x/3.x, Django
 - Git, Perforce
 
-## Prefer development pipeline:
+## ➿ Prefer development pipeline:
 - TDD
 
 ## 🔧 Work experience:
