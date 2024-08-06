@@ -1,6 +1,6 @@
 # Hi there 👋
 
-More than five years of broad experience. More than two years of experience in the financial industry. I am involved in testing, developing, and talking with customers about a product. I fixed bugs, resolved product conflicts, and just wrote readable code. Fallen in love with C++ - this language stole my heart!
+More than five years of broad experience. More than two years of experience in the financial industry. I am involved in testing, developing, and talking with customers about a product. I fixed bugs, resolved product conflicts, and just wrote readable code. Fallen in love with C++ - this language has stolen my heart!
 
 <p align="center">
 <picture>
@@ -10,22 +10,25 @@ More than five years of broad experience. More than two years of experience in t
 </picture>
 
 ## 🔗 Skills:
-- C++, BOOST, MFC, ATL, STL, FMT, OpenGL, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML
-- SQL
+- C++, Boost, MFC, ATL, STL, FMT, OpenGL, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML, SDL, Gradle, GLSL, QML
+- SQL, PostgreSQL, MySQL server, MongoDB,
 - Java, Kotlink, Android Studio
 - C#, ADO.NET
 - Ruby, RubyOnRails
-- PHP, Laravel, Js, jQuery, ViewJs, Bootstrap, Wordpress, HTML\CSS\SASS\LESS\SCSS, WebGL
+- PHP, Laravel, JS, jQuery, ViewJs, Bootstrap, WordPress, HTML\CSS\SASS\LESS\SCSS, WebGL
 - Python 2.x/3.x, Django
+- Git, Perforce
+
+## Prefer development pipeline:
+- TDD
 
 ## 🔧 Work experience:
-1. School 42
-2. IT Step
-3. Bootcamp New York
-4. Ciklum
+1. IT Step
+2. School 42
+3. BootCamp(New York)
 5. TSImagen
 6. Pingle
-7. Boolat Games
+7. Playrix
 
 ## 📊 Education:
 - STATE UNIVERSITY OF ECONOMICS AND TECHNOLOGY
