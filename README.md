@@ -11,13 +11,14 @@ More than five years of broad experience. More than two years of experience in t
 
 ## 🔗 Skills:
 - C++, Boost, MFC, ATL, STL, FMT, OpenGL, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML, SDL, Gradle, GLSL, QML
+- CMake, Make, B2
 - SQL, PostgreSQL, MySQL server, MongoDB,
 - Java, Kotlink, Android Studio
 - C#, ADO.NET
 - Ruby, RubyOnRails
 - PHP, Laravel, JS, jQuery, ViewJs, Bootstrap, WordPress, HTML\CSS\SASS\LESS\SCSS, WebGL
 - Python 2.x/3.x, Django
-- Git, Perforce
+- Git, Perforce, SVN
 
 ## ➿ Prefer development pipeline:
 - TDD
@@ -29,6 +30,7 @@ More than five years of broad experience. More than two years of experience in t
 5. TSImagen
 6. Pingle
 7. Playrix
+8. Fluent Tech
 
 ## 📊 Education:
 - STATE UNIVERSITY OF ECONOMICS AND TECHNOLOGY
