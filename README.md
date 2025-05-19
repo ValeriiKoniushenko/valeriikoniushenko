@@ -10,7 +10,7 @@ More than five years of broad experience. More than two years of experience in t
 </picture>
 
 ## 🔗 Skills:
-- C++, Boost, MFC, ATL, STL, FMT, OpenGL, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML, SDL, Gradle, GLSL, QML
+- C++, Boost, MFC, ATL, STL, FMT, OpenGL, VulkanAPI, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML, SDL, Gradle, GLSL, QML
 - CMake, Make, B2
 - SQL, PostgreSQL, MySQL server, MongoDB,
 - Java, Kotlink, Android Studio
@@ -19,9 +19,6 @@ More than five years of broad experience. More than two years of experience in t
 - PHP, Laravel, JS, jQuery, ViewJs, Bootstrap, WordPress, HTML\CSS\SASS\LESS\SCSS, WebGL
 - Python 2.x/3.x, Django
 - Git, Perforce, SVN
-
-## ➿ Prefer development pipeline:
-- TDD
 
 ## 🔧 Work experience:
 1. IT Step
@@ -39,8 +36,9 @@ More than five years of broad experience. More than two years of experience in t
 - Ukrainian(native)
 - Russian(native)
 - English(B2)
-
+- Swedish(A1)
+  
 ## 📨 Contacts:
 - e-mail: Valerii.Koniushenko@gmail.com
 - phone: +380666445607
-- telegram: [@markmoran24](https://t.me/markmoran24)
+- telegram: [@valeriikoniushenko](https://t.me/valeriikoniushenko)
