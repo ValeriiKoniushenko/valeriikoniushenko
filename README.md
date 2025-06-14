@@ -39,6 +39,6 @@ More than five years of broad experience. More than two years of experience in t
 - Swedish(A1)
   
 ## 📨 Contacts:
-- e-mail: Valerii.Koniushenko@gmail.com
-- phone: +380666445607
+- e-mail: valeriikoniushenko@gmail.com
+- phone: +380702407189
 - telegram: [@valeriikoniushenko](https://t.me/valeriikoniushenko)
