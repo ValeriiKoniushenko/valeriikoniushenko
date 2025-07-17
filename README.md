@@ -40,5 +40,5 @@ More than five years of broad experience. More than two years of experience in t
   
 ## 📨 Contacts:
 - e-mail: <a href="mailto:valeriikoniushenko@gmail.com">valeriikoniushenko@gmail.com</a>
-- phone: <a href="tel:+460702407189">+46 070-240-7189</a>
+- phone: <a href="tel:+460762649671">+46 076-264-96-71</a>
 - telegram: [@valeriikoniushenko](https://t.me/valeriikoniushenko)
