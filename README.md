@@ -1,6 +1,6 @@
 # Hi there 👋
 
-More than five years of broad experience. More than two years of experience in the financial industry. I am involved in testing, developing, and talking with customers about a product. I fixed bugs, resolved product conflicts, and just wrote readable code. Fallen in love with C++ - this language has stolen my heart!
+Over five years of broad software development experience, including more than two years in the financial industry. Skilled across the entire C++ ecosystem - from development and testing to tooling, DevOps, and deployment. Experienced in debugging, resolving product issues, and writing clean, maintainable code. Deeply passionate about C++ and dedicated to creating high-quality, impactful software.
 
 <p align="center">
 <picture>
@@ -11,11 +11,11 @@ More than five years of broad experience. More than two years of experience in t
 
 ## 🔗 Skills:
 - C++, Boost, MFC, ATL, STL, FMT, OpenGL, VulkanAPI, OpenCV, Qt, UnrealEngine 4\5, WinAPI, SpiderMonkey, SFML, SDL, Gradle, GLSL, QML
-- CMake, Make, B2
+- CMake, Make, Maven
 - SQL, PostgreSQL, MySQL server, MongoDB,
 - Java, Kotlink, Android Studio
 - C#, ADO.NET
-- Ruby, RubyOnRails
+- Ruby, RubyOnRails, React, ViteJS
 - PHP, Laravel, JS, jQuery, ViewJs, Bootstrap, WordPress, HTML\CSS\SASS\LESS\SCSS, WebGL
 - Python 2.x/3.x, Django
 - Git, Perforce, SVN
@@ -35,8 +35,7 @@ More than five years of broad experience. More than two years of experience in t
 ## 🈯 Languages
 - Ukrainian(native)
 - Russian(native)
-- English(B2)
-- Swedish(A1)
+- English(Upper Intermediate)
   
 ## 📨 Contacts:
 - e-mail: <a href="mailto:valeriikoniushenko@gmail.com">valeriikoniushenko@gmail.com</a>
