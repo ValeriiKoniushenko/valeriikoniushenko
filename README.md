@@ -27,7 +27,7 @@ Over five years of broad software development experience, including more than tw
 5. TSImagen
 6. Pingle
 7. Playrix
-8. Fluent Tech
+8. Fluent Tech (**now**)
 
 ## 📊 Education:
 - STATE UNIVERSITY OF ECONOMICS AND TECHNOLOGY
