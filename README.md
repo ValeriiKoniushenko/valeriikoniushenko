@@ -4,7 +4,7 @@
 
 Over seven years of broad software development experience, including more than two years in the financial industry (FX/FIX protocol). Skilled across the entire C++ ecosystem - from development and testing to tooling, DevOps, and deployment. Deeply passionate about C++ and dedicated to crafting high-quality, impactful software.
 
-Currently based in **Stockholm, Sweden 🇸🇪** · Working at **Fluent Tech**
+Currently based in **Stockholm, Sweden 🇸🇪** · Working at **Cisco**
 
 <p align="center">
   <picture>
